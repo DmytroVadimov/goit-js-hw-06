@@ -21,6 +21,7 @@ const customer = {
     this.balance -= cost - cost * this.discount;
     this.orders.push(order);
   },
+
   // Change code above this line
 };
 
